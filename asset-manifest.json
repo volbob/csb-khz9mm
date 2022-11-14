@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://volbob.github.io/csb-khz9mm/static/css/main.318750e1.chunk.css",
+    "main.js": "https://volbob.github.io/csb-khz9mm/static/js/main.7d4cb7af.chunk.js",
+    "main.js.map": "https://volbob.github.io/csb-khz9mm/static/js/main.7d4cb7af.chunk.js.map",
+    "runtime-main.js": "https://volbob.github.io/csb-khz9mm/static/js/runtime-main.9a18a33e.js",
+    "runtime-main.js.map": "https://volbob.github.io/csb-khz9mm/static/js/runtime-main.9a18a33e.js.map",
+    "static/js/2.b43a9b46.chunk.js": "https://volbob.github.io/csb-khz9mm/static/js/2.b43a9b46.chunk.js",
+    "static/js/2.b43a9b46.chunk.js.map": "https://volbob.github.io/csb-khz9mm/static/js/2.b43a9b46.chunk.js.map",
+    "index.html": "https://volbob.github.io/csb-khz9mm/index.html",
+    "static/css/main.318750e1.chunk.css.map": "https://volbob.github.io/csb-khz9mm/static/css/main.318750e1.chunk.css.map",
+    "static/js/2.b43a9b46.chunk.js.LICENSE.txt": "https://volbob.github.io/csb-khz9mm/static/js/2.b43a9b46.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "https://volbob.github.io/csb-khz9mm/static/media/Mona-Sans.955a87eb.woff2",
+    "static/media/heart.519538c2.svg": "https://volbob.github.io/csb-khz9mm/static/media/heart.519538c2.svg",
+    "static/media/home.cc9786b6.svg": "https://volbob.github.io/csb-khz9mm/static/media/home.cc9786b6.svg",
+    "static/media/instagram.f4c6c5ff.svg": "https://volbob.github.io/csb-khz9mm/static/media/instagram.f4c6c5ff.svg",
+    "static/media/picture.13d76e38.svg": "https://volbob.github.io/csb-khz9mm/static/media/picture.13d76e38.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a18a33e.js",
+    "static/js/2.b43a9b46.chunk.js",
+    "static/css/main.318750e1.chunk.css",
+    "static/js/main.7d4cb7af.chunk.js"
+  ]
+}
