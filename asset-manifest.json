@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://volbob.github.io/csb-khz9mm/static/css/main.318750e1.chunk.css",
-    "main.js": "https://volbob.github.io/csb-khz9mm/static/js/main.980e4f40.chunk.js",
-    "main.js.map": "https://volbob.github.io/csb-khz9mm/static/js/main.980e4f40.chunk.js.map",
+    "main.js": "https://volbob.github.io/csb-khz9mm/static/js/main.b0c81970.chunk.js",
+    "main.js.map": "https://volbob.github.io/csb-khz9mm/static/js/main.b0c81970.chunk.js.map",
     "runtime-main.js": "https://volbob.github.io/csb-khz9mm/static/js/runtime-main.9a18a33e.js",
     "runtime-main.js.map": "https://volbob.github.io/csb-khz9mm/static/js/runtime-main.9a18a33e.js.map",
     "static/js/2.b43a9b46.chunk.js": "https://volbob.github.io/csb-khz9mm/static/js/2.b43a9b46.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.9a18a33e.js",
     "static/js/2.b43a9b46.chunk.js",
     "static/css/main.318750e1.chunk.css",
-    "static/js/main.980e4f40.chunk.js"
+    "static/js/main.b0c81970.chunk.js"
   ]
 }
