@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://volbob.github.io/csb-khz9mm/static/css/main.3b8e9899.chunk.css",
-    "main.js": "https://volbob.github.io/csb-khz9mm/static/js/main.296c9e97.chunk.js",
-    "main.js.map": "https://volbob.github.io/csb-khz9mm/static/js/main.296c9e97.chunk.js.map",
+    "main.css": "https://volbob.github.io/csb-khz9mm/static/css/main.21116192.chunk.css",
+    "main.js": "https://volbob.github.io/csb-khz9mm/static/js/main.483e68e4.chunk.js",
+    "main.js.map": "https://volbob.github.io/csb-khz9mm/static/js/main.483e68e4.chunk.js.map",
     "runtime-main.js": "https://volbob.github.io/csb-khz9mm/static/js/runtime-main.9a18a33e.js",
     "runtime-main.js.map": "https://volbob.github.io/csb-khz9mm/static/js/runtime-main.9a18a33e.js.map",
     "static/js/2.2131a0ee.chunk.js": "https://volbob.github.io/csb-khz9mm/static/js/2.2131a0ee.chunk.js",
     "static/js/2.2131a0ee.chunk.js.map": "https://volbob.github.io/csb-khz9mm/static/js/2.2131a0ee.chunk.js.map",
     "index.html": "https://volbob.github.io/csb-khz9mm/index.html",
-    "static/css/main.3b8e9899.chunk.css.map": "https://volbob.github.io/csb-khz9mm/static/css/main.3b8e9899.chunk.css.map",
+    "static/css/main.21116192.chunk.css.map": "https://volbob.github.io/csb-khz9mm/static/css/main.21116192.chunk.css.map",
     "static/js/2.2131a0ee.chunk.js.LICENSE.txt": "https://volbob.github.io/csb-khz9mm/static/js/2.2131a0ee.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9a18a33e.js",
     "static/js/2.2131a0ee.chunk.js",
-    "static/css/main.3b8e9899.chunk.css",
-    "static/js/main.296c9e97.chunk.js"
+    "static/css/main.21116192.chunk.css",
+    "static/js/main.483e68e4.chunk.js"
   ]
 }
